@@ -1,0 +1,12 @@
+{
+    "name": "kelompok1/star_rating",
+    "description": "A laravel package to perform rating function",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kelompok1\\StarRating\\": "src/"
+        }
+    },
+    "require": {}
+}
